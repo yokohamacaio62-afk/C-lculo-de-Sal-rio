@@ -46,7 +46,7 @@ src/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculo-de-salario.git
+   git clone https://github.com/yokohamacaio62-afk/calculo-de-salario.git
    ```
 2. Abra o projeto no IntelliJ IDEA (ou outra IDE Java).
 3. Execute a classe `program` (pacote `Application`).
